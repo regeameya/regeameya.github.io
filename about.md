@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "/about/"
+title: "About"
 permalink: https://regeameya.github.io/about
 ---
 
